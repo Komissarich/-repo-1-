@@ -1,0 +1,3 @@
+Ветки demo и master не отличаются по своему содержанию, но различаются по своим коммитам:
+У demo есть два коммита, которых нет у master:merge "buttons" int demo, merge "boots" into release.
+У master, в свою очередь, есть коммиты которых нет у demo: merge "hat", merge "boots" into boots_buttons, merge "buttons" into "boots", merge "boots_buttons".
