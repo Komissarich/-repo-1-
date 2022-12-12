@@ -1,3 +1,40 @@
 Ветки demo и master не отличаются по своему содержанию, но различаются по своим коммитам:
 У demo есть два коммита, которых нет у master:merge "buttons" int demo, merge "boots" into release.
 У master, в свою очередь, есть коммиты которых нет у demo: merge "hat", merge "boots" into boots_buttons, merge "buttons" into "boots", merge "boots_buttons".
+
+Файлы readme:
+1)Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+You must receive some image as in demo branch
+
+2)Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+You must receive some image as in demo branch
+
+3)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+4)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+5)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+6)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+7)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+8)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+9)Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
